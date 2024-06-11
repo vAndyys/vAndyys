@@ -1,8 +1,8 @@
-#Andrew Smith
+# Andrew Smith 
 
-##Head of Software Integration for University of Strathclyde Motorsport Driverless\
-MEng Computer and Electronic Systems Student 
-
+### Head of Software Integration for University of Strathclyde Motorsport Driverless
+### MEng Computer and Electronic Systems Student 
+### Glasgow, Scotland
 
 <!--
 **vAndyys/vAndyys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
